@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <NonVisualComponents>
+    <Component class="javax.swing.ButtonGroup" name="buttonGroup1">
+    </Component>
+  </NonVisualComponents>
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace min="-2" pref="42" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="txtRegistro1" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="txtRegistro2" min="-2" pref="229" max="-2" attributes="0"/>
+                  <Component id="txtRegistro3" alignment="0" min="-2" pref="121" max="-2" attributes="0"/>
+                  <Component id="txtRegistro4" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="jLabel1" alignment="0" min="-2" pref="107" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace pref="68" max="32767" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="chkRealizado5" min="-2" max="-2" attributes="0"/>
+                  <Group type="102" attributes="0">
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="chkRealizado1" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="chkRealizado2" alignment="0" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="-2" pref="30" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="chkNoRealizado2" min="-2" max="-2" attributes="0"/>
+                          <Component id="chkNoRealizado1" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+                  <Group type="102" alignment="0" attributes="0">
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="chkRealizado3" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="chkRealizado4" alignment="0" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="-2" pref="30" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="chkNoRealizado4" min="-2" max="-2" attributes="0"/>
+                          <Component id="chkNoRealizado3" min="-2" max="-2" attributes="0"/>
+                          <Component id="chkNoRealizado5" alignment="0" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+              </Group>
+              <EmptySpace min="-2" pref="35" max="-2" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace min="-2" pref="55" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="txtRegistro1" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="chkRealizado1" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="chkNoRealizado1" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace min="-2" pref="37" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="txtRegistro2" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="chkRealizado2" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="chkNoRealizado2" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace min="-2" pref="34" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="txtRegistro3" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="chkRealizado3" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="chkNoRealizado3" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace min="-2" pref="30" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="txtRegistro4" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="chkRealizado4" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="chkNoRealizado4" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace min="-2" pref="38" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="jLabel1" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="chkRealizado5" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="chkNoRealizado5" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace pref="62" max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Component class="javax.swing.JLabel" name="txtRegistro1">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Pago mensual de agua"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="txtRegistro3">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Cooperaci&#xf3;n de pozo"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="txtRegistro2">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Pago de agua por transferencia/deposito"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="txtRegistro4">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Descuento aplicado en personas de 3ra edad"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="chkRealizado1">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Realizado"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="chkRealizado1ActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="chkNoRealizado1">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="No realizado"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="chkRealizado2">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Realizado"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="chkNoRealizado2">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="No realizado"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="chkRealizado3">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Realizado"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="chkNoRealizado3">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="No realizado"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="chkRealizado4">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Realizado"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="chkNoRealizado4">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="No realizado"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel1">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Adeudos saldados"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="chkRealizado5">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Realizado"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="chkNoRealizado5">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="No realizado"/>
+      </Properties>
+    </Component>
+  </SubComponents>
+</Form>
